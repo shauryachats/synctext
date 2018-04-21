@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SyncText</string>
+    <string name="result_text_default">Please focus.</string>
+</resources>
